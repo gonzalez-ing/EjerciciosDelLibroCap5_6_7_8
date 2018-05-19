@@ -1,0 +1,10 @@
+C:\Users\adrianesteban\Desktop\Tarea 2\Capitulo5\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\adrianesteban\Desktop\Tarea 2\Capitulo5\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\adrianesteban\Desktop\Tarea 2\Capitulo5\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\adrianesteban\Desktop\Tarea 2\Capitulo5\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+C:\Users\adrianesteban\Desktop\Tarea 2\Capitulo5\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+C:\Users\adrianesteban\Desktop\Tarea 2\Capitulo5\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+C:\Users\adrianesteban\Desktop\Tarea 2\Capitulo5\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.Cache
+C:\Users\adrianesteban\Desktop\Tarea 2\Capitulo5\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\adrianesteban\Desktop\Tarea 2\Capitulo5\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\adrianesteban\Desktop\Tarea 2\Capitulo5\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
